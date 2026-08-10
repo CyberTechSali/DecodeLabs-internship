@@ -30,7 +30,7 @@ This project was built to practice core Python fundamentals (strings, conditiona
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/password-strength-checker.git
+git clone https://github.com/CyberTechSali/password-strength-checker.git
 cd password-strength-checker
 ```
 
