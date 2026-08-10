@@ -26,7 +26,7 @@ The Caesar cipher shifts each letter of the alphabet by a fixed number of positi
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/caesar-cipher.git
+git clone https://github.com/CyberTechSali/DecodeLabs-internship/blob/main/project2/caesar_cipher.py
 cd caesar-cipher
 ```
 
