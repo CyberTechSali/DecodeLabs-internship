@@ -79,6 +79,8 @@ A password shorter than 8 characters is automatically classified as **weak**, re
 - 3 criteria met → medium
 - 4 criteria met → strong
 
+  ![Terminal demo](images/screenshot.png)
+
 ## Possible improvements
 
 - Add protection against timing attacks using `hmac.compare_digest()`
