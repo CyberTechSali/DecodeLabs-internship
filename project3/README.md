@@ -30,7 +30,7 @@ Rather than relying on a spam filter, this tool mimics a **human triage checklis
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/phishing-triage-tool.git
+git clone https://github.com/Cybertechsali/phishing-triage-tool.git
 cd phishing-triage-tool
 ```
 
